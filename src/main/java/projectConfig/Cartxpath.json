@@ -1,0 +1,9 @@
+{
+"cart":"//*[@id='MenuContent']/a[1]/img",
+"add":"//*[@id=\"Cart\"]/form/table/tbody/tr[3]/td[1]/input",
+"add2":"//*[@id=\"QuickLinks\"]/a[1]/img",
+"slct":"//*[@id=\"Catalog\"]/table/tbody/tr[5]/td[1]/a",
+"crtbtn":"//*[@id=\"Catalog\"]/table/tbody/tr[2]/td[5]/a",
+"qty":"//*[@id=\"Cart\"]/form/table/tbody/tr[2]/td[5]/input",
+"prcdbtn":"//*[@id=\"Cart\"]/a"
+	}

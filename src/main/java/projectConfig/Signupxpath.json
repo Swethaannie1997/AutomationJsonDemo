@@ -1,0 +1,26 @@
+{
+"signin":"//*[@id=\"MenuContent\"]/a[2]",
+"signup":"//*[@id=\"Catalog\"]/a",
+"logbtn":"signon",
+"userid":"//*[@id=\"Catalog\"]/form/table[1]/tbody/tr[1]/td[2]/input",
+"pswrd":"//*[@id=\"Catalog\"]/form/table[1]/tbody/tr[2]/td[2]/input",
+"rpswrd":"//*[@id=\"Catalog\"]/form/table[1]/tbody/tr[3]/td[2]/input",
+"firstname":"//*[@id=\"Catalog\"]/form/table[2]/tbody/tr[1]/td[2]/input",	
+"lastname":"//*[@id=\"Catalog\"]/form/table[2]/tbody/tr[2]/td[2]/input",
+"email":"//*[@id=\"Catalog\"]/form/table[2]/tbody/tr[3]/td[2]/input",	
+"phone":"//*[@id=\"Catalog\"]/form/table[2]/tbody/tr[4]/td[2]/input",	
+"add1":"//*[@id=\"Catalog\"]/form/table[2]/tbody/tr[5]/td[2]/input",	
+"add2":"//*[@id=\"Catalog\"]/form/table[2]/tbody/tr[6]/td[2]/input",	
+"city":"//*[@id=\"Catalog\"]/form/table[2]/tbody/tr[7]/td[2]/input",	
+"state":"//*[@id=\"Catalog\"]/form/table[2]/tbody/tr[8]/td[2]/input",	
+"zip":"//*[@id=\"Catalog\"]/form/table[2]/tbody/tr[9]/td[2]/input",
+"country":"//*[@id=\"Catalog\"]/form/table[2]/tbody/tr[10]/td[2]/input",
+ "category":"//*[@id=\"Catalog\"]/form/table[3]/tbody/tr[2]/td[2]/select",
+"mlist":"//*[@id=\"Catalog\"]/form/table[3]/tbody/tr[3]/td[2]/input",
+"mbanner":"//*[@id=\"Catalog\"]/form/table[3]/tbody/tr[4]/td[2]/input",
+"signupbtn":"//*[@id=\"Catalog\"]/form/input"
+	
+	
+	}
+	
+	

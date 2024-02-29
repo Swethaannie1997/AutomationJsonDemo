@@ -1,0 +1,6 @@
+{
+        "signin": "//*[@id='MenuContent']/a[2]" ,
+		"username":"username",
+		"password":"password",
+		"logbtn":"signon"
+}
